@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ServerELGays.aternos.me",
+    "ip": "ServerELGays.aternos.me:57333",
     "port": 57333,
     "version": "",
     "try-creative": false
